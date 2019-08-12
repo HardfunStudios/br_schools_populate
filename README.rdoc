@@ -1,5 +1,5 @@
-# Código Rails para Popular escolas do Brasil
+== Código Rails para Popular escolas do Brasil
 
-WIP
+Dados obtidos do Censo da Educação Básica
 
 Estrutura baseada em https://github.com/celsodantas/br_populate/
